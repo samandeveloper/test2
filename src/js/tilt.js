@@ -1,4 +1,4 @@
-import tilt from 'tilt.js';
+import tilt from './tilt.js';
 
 const initTilt = () => {
   // Projects images
