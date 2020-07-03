@@ -1,5 +1,5 @@
-import initTilt from './src/js/tilt';
-import initSr from './src/js/sr';
+import initTilt from './tilt';
+import initSr from './sr';
 
 import './main.scss';
 
