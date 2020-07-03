@@ -1,18 +1,18 @@
-@import './vendors/bootstrap.scss';
+@import './bootstrap.scss';
 
-@import './abstracts/mixins';
-@import './abstracts/variables';
-@import './abstracts/helpers';
+@import './mixins';
+@import './variables';
+@import './helpers';
 
-@import './base/base';
-@import './base/typography';
+@import './base';
+@import './typography';
 
-@import './components/buttons';
+@import './buttons';
 
-@import './layout/footer';
-@import './layout/sections';
+@import './footer';
+@import './sections';
 
-@import './sections/about';
-@import './sections/contact';
-@import './sections/hero';
-@import './sections/projects';
+@import './about';
+@import './contact';
+@import './hero';
+@import './projects';
